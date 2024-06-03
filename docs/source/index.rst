@@ -12,6 +12,7 @@
    typescript/index
    vscode/index
    docker/index
+   python/index
 
 Welcome to s-tanaka-test's documentation!
 =========================================
