@@ -6,4 +6,4 @@
 
 #### test title
 
-[Google.com リンク](https://www.google.co.jp)# TypeScript
+[Google.com リンク](https://www.google.co.jp)
