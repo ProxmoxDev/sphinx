@@ -14,6 +14,7 @@
    docker/index
    python/index
    proxmox/index
+   proxmox/sub
 
 Welcome to s-tanaka-test's documentation!
 =========================================
