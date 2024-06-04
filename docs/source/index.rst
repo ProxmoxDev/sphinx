@@ -13,6 +13,7 @@
    vscode/index
    docker/index
    python/index
+   proxmox/index
 
 Welcome to s-tanaka-test's documentation!
 =========================================
