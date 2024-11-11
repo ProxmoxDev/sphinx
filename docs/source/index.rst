@@ -11,6 +11,7 @@
    test/index
    typescript/index
    vscode/index
+   vscode/sub
    docker/index
    python/index
    proxmox/index
