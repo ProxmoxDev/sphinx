@@ -16,6 +16,7 @@
    python/index
    proxmox/index
    proxmox/sub
+   golang/index
 
 Welcome to s-tanaka-test's documentation!
 =========================================
